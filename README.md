@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![s2hoon's github stats](https://github-readme-stats.vercel.app/api?username=s2hoon&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s2hoon)](https://solved.ac/s2hoon/)
+
+![s2hoon's github stats](https://github-readme-stats.vercel.app/api?username=s2hoon&show_icons=true)
+
 
 [![Java](https://img.shields.io/badge/Java-blue?logo=java)](https://www.java.com/)
 [![Spring](https://img.shields.io/badge/Spring-green?logo=spring)](https://spring.io/)
