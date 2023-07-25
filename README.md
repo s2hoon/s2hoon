@@ -1,7 +1,11 @@
-<div align = center>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s2hoon)](https://solved.ac/s2hoon/)
-![s2hoon's github stats](https://github-readme-stats.vercel.app/api?username=s2hoon&show_icons=true)
+<div align="center">
+  <a href="https://solved.ac/s2hoon/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=s2hoon" alt="Solved.ac Profile">
+  </a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=s2hoon&show_icons=true" alt="s2hoon's github stats">
 </div>
+
 
 <div align=center>
 	<p>🛠 Tools 🛠</p>
