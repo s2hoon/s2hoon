@@ -1,14 +1,6 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Suhoon's%20Github!&fontSize=90" />	
-</div>
-
-
 <div align = center>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s2hoon)](https://solved.ac/s2hoon/)
-
 ![s2hoon's github stats](https://github-readme-stats.vercel.app/api?username=s2hoon&show_icons=true)
-
 </div>
 
 <div align=center>
