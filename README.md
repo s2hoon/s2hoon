@@ -23,6 +23,8 @@
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://img.shields.io/badge/AWS-orange?logo=amazon-aws" alt="AWS Badge">
   </a>
+
+	
 </div>
 
 <div align=center>
@@ -31,7 +33,10 @@
 
 <div align=center>
 	<a href="https://velog.io/@s2hoon">
-	  <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+	  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
+	</a>
+	<a href="https://woozy-cuticle-bfb.notion.site/2831e1f9e53f4d0eab65554dba0189fc?pvs=4">
+	  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 </div>
 
