@@ -33,10 +33,10 @@
 
 <div align=center>
 	<a href="https://velog.io/@s2hoon">
-	  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
+	  <img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white" />
 	</a>
 	<a href="https://woozy-cuticle-bfb.notion.site/2831e1f9e53f4d0eab65554dba0189fc?pvs=4">
-	  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 </div>
 
