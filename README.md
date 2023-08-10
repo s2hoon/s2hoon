@@ -7,9 +7,7 @@
 </div>
 
 
-<div align=center>
-	<p>🛠 Tools 🛠</p>
-</div>
+
 <div align= center>
   <a href="https://www.java.com/" >
     <img src="https://img.shields.io/badge/Java-blue?logo=java" alt="Java Badge">
@@ -27,9 +25,7 @@
 	
 </div>
 
-<div align=center>
-	<p>🎨 Blog & Portfolio 🎨</p>
-</div>
+
 
 <div align=center>
 	<a href="https://velog.io/@s2hoon">
