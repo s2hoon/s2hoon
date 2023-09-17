@@ -12,14 +12,10 @@
   <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/Java-blue?logo=java" alt="Java Badge">
   </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-orange?logo=amazon-aws" alt="AWS Badge">
-  </a>
+<img src="https://img.shields.io/badge/Python-%233776AB?logo=python" alt="Python Badge">
   <img src="https://img.shields.io/badge/C-%2300599C?logo=c" alt="C Badge">
   <img src="https://img.shields.io/badge/C++-%2300599C?logo=c%2B%2B" alt="C++ Badge">
-  <img src="https://img.shields.io/badge/Python-%233776AB?logo=python" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux" alt="Linux Badge">
-  <img src="https://img.shields.io/badge/Verilog-%2343853D?logo=verizon" alt="Verilog Badge">
+
 </div>
 
 <div align="center">
@@ -29,6 +25,14 @@
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://img.shields.io/badge/Django-%23092E20?logo=django" alt="Django Badge">
   </a>
+</div>
+
+<div align="center">
+	<a href="https://aws.amazon.com/" target="_blank">
+	<img src="https://img.shields.io/badge/AWS-orange?logo=amazon-aws" alt="AWS Badge">
+	</a>
+	<img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux" alt="Linux Badge">
+ 	 <img src="https://img.shields.io/badge/Verilog-%2343853D?logo=verizon" alt="Verilog Badge">
 </div>
 
  
